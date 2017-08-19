@@ -1,4 +1,4 @@
-source 'https://gems.ruby-china.org/'
+source 'https://rubygems.org'
 
 gem 'rails', '~> 5.0.2'
 
